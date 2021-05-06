@@ -1,0 +1,11 @@
+# generated binaries
+slock
+
+# object files
+*.o
+
+# useless config
+config.h
+
+# patch files
+*.diff
